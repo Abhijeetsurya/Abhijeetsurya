@@ -8,7 +8,7 @@
 - 🌱 Currently diving deeper into **SQL**, **Python (Pandas, NumPy)**, **Power BI**, and **Tableau**.
 - 🤝 Looking to collaborate on **data-driven projects**, dashboards, or anything that tells a great story with data.
 - 📫 Reach me at:  
-  - 📧 abhijeetsurya@example.com
+  - 📧 abhisurya1421@gmail.com
   - 💼 https://www.linkedin.com/in/abhijeet42/
   - 📊 [Data Analytics with SQL – GitHub Repo](https://github.com/Abhijeetsurya/Data_Analytics_SQL_Learning)
 
