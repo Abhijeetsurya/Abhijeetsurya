@@ -5,7 +5,7 @@
 ---
 
 - 👀 I’m passionate about **data analysis**, **visualization**, and uncovering insights through numbers.
-- 🌱 Currently diving deeper into **SQL**, **Python (Pandas, NumPy)**, **Power BI**, and **Tableau**.
+- 🌱 Currently diving deeper into **Excel**, **SQL**, **Python (Pandas, NumPy, Matplotlib)**, **Power BI**, and **Tableau**.
 - 🤝 Looking to collaborate on **data-driven projects**, dashboards, or anything that tells a great story with data.
 - 📫 Reach me at:  
   - 📧 abhisurya1421@gmail.com
