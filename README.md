@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Abhijeet Surya
+# Hey there! 👋 I'm Abhijeet Suryawanshi
 
 🚀 Aspiring Data Engineer | 🛠️ Building Scalable Data Pipelines | 📊 Analytics Background
 
